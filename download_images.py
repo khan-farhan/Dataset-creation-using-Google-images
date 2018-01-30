@@ -1,5 +1,5 @@
 # USAGE
-# python download_images.py --urls urls.txt --output images/santa
+# python download_images.py --urls "path to url.txt" --output "path to image download folder"
 
 # import the necessary packages
 from imutils import paths
