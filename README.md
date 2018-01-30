@@ -9,9 +9,9 @@ How to use?
 
 1. Open google images and type the keyword related to the image search eg. "Hotdog".
 2. Scroll till the images appearing are relevant to your search.
-3. Go to View -> Developer -> Javascript console. Javascript console will get open.
+3. Go to View -> Developer -> Javascript console. A Javascript console will get open.
 4. Click on Console.
-5. Enter the content of js_console.js line by line into console. After the last command, a file nmed "urls.txt" will get created in your Download directory.
+5. Enter the content of js_console.js line by line into console. After the last command, a file named "urls.txt" will get created in your Download directory.
 6. Execute the download_images.py script with this command:
 
 ```sh
